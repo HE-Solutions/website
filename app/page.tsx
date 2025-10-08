@@ -19,7 +19,7 @@ export default function HomePage() {
         <header className="border-b border-border/40 bg-white">
           <div className="container mx-auto px-4 py-4 flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <Image src="/logo.png" alt="He Solutions Logo" width={120} height={40} className="h-10 w-auto" />
+              <Image src="/logo.png" alt="HE Solutions Logo" width={120} height={40} className="h-10 w-auto" />
             </div>
             <nav className="hidden md:flex items-center gap-8">
               <Link
@@ -241,7 +241,7 @@ export default function HomePage() {
 
               <div className="pt-8 border-t border-border/40 text-center text-sm text-muted-foreground">
                 <p>
-                  © {new Date().getFullYear()} He Solutions. {t.footer.rights}
+                  © {new Date().getFullYear()} HE Solutions. {t.footer.rights}
                 </p>
               </div>
             </div>

@@ -15,7 +15,7 @@ export const translations = {
     },
     services: {
       title: "Unsere Leistungen",
-      subtitle: "Umfassende Entwicklungsdienstleistungen für elektronische Systeme",
+      subtitle: "Umfassende Entwicklungsdienstleistungen",
       pcb: {
         title: "PCB-Design",
         description:
@@ -33,7 +33,7 @@ export const translations = {
       },
     },
     about: {
-      title: "Über He Solutions",
+      title: "Über HE Solutions",
       paragraph1:
         "Mit umfassender Expertise in der Entwicklung elektronischer Systeme bieten wir innovative Lösungen für anspruchsvolle Projekte in der Industrie und Technologie.",
       paragraph2:
@@ -51,7 +51,7 @@ export const translations = {
       phone: "Telefon",
       email: "E-Mail",
       location: "Standort",
-      address: "Musterstraße 123\n12345 Musterstadt",
+      address: "Roermonder Str. 286,\n52072 Aachen",
     },
     footer: {
       tagline: "Ihr Partner für professionelles PCB-Design und Leistungselektronik",
@@ -87,7 +87,7 @@ export const translations = {
     hero: {
       title: "Professional PCB Design & Power Electronics",
       subtitle:
-        "Custom PCB development and innovative power electronics solutions for industry and technology. Precise, reliable, and future-oriented.",
+        "Custom PCB development and innovative power electronics solutions. Precise, reliable, and future-oriented.",
       consultation: "Free Consultation",
       ourServices: "Our Services",
     },
@@ -111,9 +111,9 @@ export const translations = {
       },
     },
     about: {
-      title: "About He Solutions",
+      title: "About HE Solutions",
       paragraph1:
-        "With comprehensive expertise in electronic systems development, we offer innovative solutions for demanding projects in industry and technology.",
+        "With comprehensive expertise in electronic systems development, we offer innovative solutions for demanding projects.",
       paragraph2:
         "Our team of experienced engineers develops custom PCB designs and power electronics solutions that meet the highest quality standards and utilize cutting-edge technologies.",
       stats: {
@@ -129,7 +129,7 @@ export const translations = {
       phone: "Phone",
       email: "Email",
       location: "Location",
-      address: "Musterstraße 123\n12345 Musterstadt",
+      address: "Roermonder Str. 286,\n52072 Aachen\nGermany",
     },
     footer: {
       tagline: "Your partner for professional PCB design and power electronics",

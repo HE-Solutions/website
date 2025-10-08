@@ -26,17 +26,18 @@ export default function ImpressumPage() {
               <section className="space-y-4 mb-8">
                 <h2 className="font-sans font-semibold text-2xl">Angaben gemäß § 5 TMG</h2>
                 <div className="text-muted-foreground leading-relaxed">
-                  <p>He Solutions</p>
-                  <p>Musterstraße 123</p>
-                  <p>12345 Musterstadt</p>
+                  <p>HE Solutions UG (haftungsbeschränkt)</p>
+                  <p>Roermonder Straße 286</p>
+                  <p>52072 Aachen</p>
                 </div>
               </section>
 
               <section className="space-y-4 mb-8">
-                <h2 className="font-sans font-semibold text-2xl">Kontakt</h2>
+                <h2 className="font-sans font-semibold text-2xl">Vertreten durch</h2>
                 <div className="text-muted-foreground leading-relaxed">
-                  <p>Telefon: +49 (0) 123 456789</p>
-                  <p>E-Mail: info@he-solutions.de</p>
+                  <p>Peter Heynmöller</p>
+                  <p>Telefon: +49 151 24192050</p>
+                  <p>E-Mail: peter@h-e.solutions</p>
                 </div>
               </section>
 
@@ -44,18 +45,8 @@ export default function ImpressumPage() {
                 <h2 className="font-sans font-semibold text-2xl">Umsatzsteuer-ID</h2>
                 <p className="text-muted-foreground leading-relaxed">
                   Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
-                  <br />
-                  DE123456789
+                  <br />DE456281570
                 </p>
-              </section>
-
-              <section className="space-y-4 mb-8">
-                <h2 className="font-sans font-semibold text-2xl">Berufsbezeichnung und berufsrechtliche Regelungen</h2>
-                <div className="text-muted-foreground leading-relaxed">
-                  <p>Berufsbezeichnung: Elektrotechniker</p>
-                  <p>Zuständige Kammer: Handwerkskammer Musterstadt</p>
-                  <p>Verliehen in: Deutschland</p>
-                </div>
               </section>
 
               <section className="space-y-4 mb-8">
@@ -92,17 +83,18 @@ export default function ImpressumPage() {
               <section className="space-y-4 mb-8">
                 <h2 className="font-sans font-semibold text-2xl">Information according to § 5 TMG</h2>
                 <div className="text-muted-foreground leading-relaxed">
-                  <p>He Solutions</p>
-                  <p>Musterstraße 123</p>
-                  <p>12345 Musterstadt</p>
+                    <p>HE Solutions UG (haftungsbeschränkt)</p>
+                    <p>Roermonder Straße 286</p>
+                    <p>52072 Aachen</p>
                 </div>
               </section>
 
               <section className="space-y-4 mb-8">
-                <h2 className="font-sans font-semibold text-2xl">Contact</h2>
+                <h2 className="font-sans font-semibold text-2xl">Represented By:</h2>
                 <div className="text-muted-foreground leading-relaxed">
-                  <p>Phone: +49 (0) 123 456789</p>
-                  <p>Email: info@he-solutions.de</p>
+                  <p>Peter Heynmöller</p>
+                  <p>Telefon: +49 151 24192050</p>
+                  <p>E-Mail: peter@h-e.solutions</p>
                 </div>
               </section>
 
@@ -110,18 +102,8 @@ export default function ImpressumPage() {
                 <h2 className="font-sans font-semibold text-2xl">VAT ID</h2>
                 <p className="text-muted-foreground leading-relaxed">
                   VAT identification number according to § 27 a VAT Act:
-                  <br />
-                  DE123456789
+                  <br />DE456281570
                 </p>
-              </section>
-
-              <section className="space-y-4 mb-8">
-                <h2 className="font-sans font-semibold text-2xl">Professional Title and Regulations</h2>
-                <div className="text-muted-foreground leading-relaxed">
-                  <p>Professional title: Electrical Engineer</p>
-                  <p>Responsible chamber: Chamber of Crafts Musterstadt</p>
-                  <p>Awarded in: Germany</p>
-                </div>
               </section>
 
               <section className="space-y-4 mb-8">

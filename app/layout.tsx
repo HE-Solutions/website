@@ -14,15 +14,15 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "He Solutions | Elektrotechnik-Lösungen für Ihre Zukunft",
+  title: "HE Solutions | Elektrotechnik-Lösungen",
   description:
-    "Professionelle Elektroinstallationen, Wartung und Beratung für Privat- und Gewerbekunden. Zuverlässig, sicher und innovativ.",
+    "Professionelle Elektronik-Entwicklungsdienstleistung.",
   keywords:
-    "Elektrotechnik, Elektroinstallation, Wartung, Smart Home, Gebäudeautomation, Elektrotechniker, Elektroservice",
-  authors: [{ name: "He Solutions" }],
+    "Leistungselektronik, PCB-Design, Entwicklungsdienstleistung, Elektrotechnik, Elektrotechniker, Elektroservice",
+  authors: [{ name: "HE Solutions" }],
   openGraph: {
-    title: "He Solutions | Elektrotechnik-Lösungen",
-    description: "Professionelle Elektroinstallationen, Wartung und Beratung für Privat- und Gewerbekunden.",
+    title: "HE Solutions | Elektrotechnik-Lösungen",
+    description: "Professionelle Elektronik-Entwicklungsdienstleistung.",
     type: "website",
     locale: "de_DE",
   },
@@ -30,7 +30,6 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
