@@ -19,12 +19,12 @@ export const translations = {
       pcb: {
         title: "PCB-Design",
         description:
-          "Professionelles Layout und Design von Leiterplatten für alle Anwendungsbereiche. Von einfachen Schaltungen bis zu komplexen mehrlagigen Designs.",
+          "Professionelles Layout und Design von Leiterplatten für alle Anwendungsbereiche. Von einfachen Schaltungen bis zu komplexen Multi-Board-Designs.",
       },
       power: {
         title: "Leistungselektronik",
         description:
-          "Entwicklung effizienter Leistungselektronik-Systeme, Stromversorgungen und Motorsteuerungen für industrielle Anwendungen.",
+          "Entwicklung effizienter Leistungselektronik-Systeme, Stromversorgungen und Motorsteuerungen.",
       },
       prototyping: {
         title: "Prototyping & Testing",
@@ -35,9 +35,9 @@ export const translations = {
     about: {
       title: "Über HE Solutions",
       paragraph1:
-        "Mit umfassender Expertise in der Entwicklung elektronischer Systeme bieten wir innovative Lösungen für anspruchsvolle Projekte in der Industrie und Technologie.",
+        "Wir bieten innovative Lösungen für anspruchsvolle Projekte. Von Platinen nach Vorgaben bis zur Konzipierung von Gesamtsystemen.",
       paragraph2:
-        "Unser Team aus erfahrenen Ingenieuren entwickelt maßgeschneiderte PCB-Designs und Leistungselektronik-Lösungen, die höchsten Qualitätsansprüchen genügen und modernste Technologien nutzen.",
+        "Unser Herzensthema sind Wide-Band-Gap Leistungshalbleiter wie SiC oder GaN. Diese ermöglichen kompaktere Designs bei gleichzeitig hohem Wirkungsgrad.",
       stats: {
         experience: "Jahre Erfahrung",
         designs: "PCB-Designs",
@@ -98,12 +98,12 @@ export const translations = {
       pcb: {
         title: "PCB Design",
         description:
-          "Professional layout and design of printed circuit boards for all applications. From simple circuits to complex multi-layer designs.",
+          "Professional layout and design of printed circuit boards for all applications. From simple circuits to complex multi-board designs.",
       },
       power: {
         title: "Power Electronics",
         description:
-          "Development of efficient power electronics systems, power supplies, and motor controls for industrial applications.",
+          "Development of efficient power electronics systems, power supplies, and motor controls.",
       },
       prototyping: {
         title: "Prototyping & Testing",
@@ -114,9 +114,9 @@ export const translations = {
     about: {
       title: "About HE Solutions",
       paragraph1:
-        "With comprehensive expertise in electronic systems development, we offer innovative solutions for demanding projects.",
+        "We offer innovative solutions for demanding projects. From simple designs tailored to your needs to designing complex systems from scratch.",
       paragraph2:
-        "Our team of experienced engineers develops custom PCB designs and power electronics solutions that meet the highest quality standards and utilize cutting-edge technologies.",
+        "Wide-Band-Gap Power Semiconductors are dear to our hearts. Harnessing their superior performance through clever layouts is our passion.",
       stats: {
         experience: "Years Experience",
         designs: "PCB Designs",
@@ -127,7 +127,7 @@ export const translations = {
     },
     contact: {
       title: "Contact Us",
-      subtitle: "We look forward to your inquiry and are happy to advise you",
+      subtitle: "We look forward to your inquiry and are happy to advise you.",
       phone: "Phone",
       email: "Email",
       location: "Location",

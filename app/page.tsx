@@ -171,7 +171,7 @@ export default function HomePage() {
                     <Mail className="w-6 h-6 text-white" />
                   </div>
                   <h3 className="font-sans font-semibold text-foreground">{t.contact.email}</h3>
-                  <p className="text-muted-foreground">info@he-solutions.de</p>
+                  <p className="text-muted-foreground">peter@h-e.solutions</p>
                 </Card>
 
                 <Card className="p-6 space-y-3 text-center border-brand-primary/20">
@@ -192,7 +192,7 @@ export default function HomePage() {
             <div className="max-w-6xl mx-auto">
               <div className="grid md:grid-cols-4 gap-8 mb-8">
                 <div className="space-y-4">
-                  <Image src="/logo.png" alt="He Solutions Logo" width={120} height={40} className="h-8 w-auto" />
+                  <Image src="/logo.png" alt="He Solutions Logo" width={360} height={120} className="h-24 w-auto" />
                   <p className="text-sm text-muted-foreground leading-relaxed">{t.footer.tagline}</p>
                 </div>
 
