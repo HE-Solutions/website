@@ -127,16 +127,16 @@ export default function HomePage() {
                 </div>
                 <div className="grid grid-cols-2 gap-6">
                   <Card className="p-6 text-center space-y-2 border-brand-primary/20">
-                    <div className="text-3xl font-bold text-brand-primary">10+</div>
+                    <div className="text-3xl font-bold text-brand-primary">4+</div>
                     <div className="text-sm text-muted-foreground">{t.about.stats.experience}</div>
-                  </Card>
-                  <Card className="p-6 text-center space-y-2 border-brand-primary/20">
-                    <div className="text-3xl font-bold text-brand-primary">300+</div>
-                    <div className="text-sm text-muted-foreground">{t.about.stats.designs}</div>
                   </Card>
                   <Card className="p-6 text-center space-y-2 border-brand-primary/20">
                     <div className="text-3xl font-bold text-brand-primary">100%</div>
                     <div className="text-sm text-muted-foreground">{t.about.stats.quality}</div>
+                  </Card>
+                  <Card className="p-6 text-center space-y-2 border-brand-primary/20">
+                    <div className="text-3xl font-bold text-brand-primary">100%</div>
+                    <div className="text-sm text-muted-foreground">{t.about.stats.commitment}</div>
                   </Card>
                   <Card className="p-6 text-center space-y-2 border-brand-primary/20">
                     <div className="text-3xl font-bold text-brand-primary">24/7</div>

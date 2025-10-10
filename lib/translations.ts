@@ -43,6 +43,7 @@ export const translations = {
         designs: "PCB-Designs",
         quality: "Qualität",
         support: "Support",
+        commitment: "Einsatz"
       },
     },
     contact: {
@@ -51,7 +52,7 @@ export const translations = {
       phone: "Telefon",
       email: "E-Mail",
       location: "Standort",
-      address: "Roermonder Str. 286,\n52072 Aachen",
+      address: "Roermonder Str. 286\n52072 Aachen",
     },
     footer: {
       tagline: "Ihr Partner für professionelles PCB-Design und Leistungselektronik",
@@ -121,6 +122,7 @@ export const translations = {
         designs: "PCB Designs",
         quality: "Quality",
         support: "Support",
+        commitment: "Commitment"
       },
     },
     contact: {
@@ -129,7 +131,7 @@ export const translations = {
       phone: "Phone",
       email: "Email",
       location: "Location",
-      address: "Roermonder Str. 286,\n52072 Aachen\nGermany",
+      address: "Roermonder Str. 286\n52072 Aachen\nGermany",
     },
     footer: {
       tagline: "Your partner for professional PCB design and power electronics",
