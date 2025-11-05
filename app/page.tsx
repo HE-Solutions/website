@@ -163,7 +163,7 @@ export default function HomePage() {
                     <Phone className="w-6 h-6 text-white" />
                   </div>
                   <h3 className="font-sans font-semibold text-foreground">{t.contact.phone}</h3>
-                  <p className="text-muted-foreground">+49 151 24192050</p>
+                  <p className="text-muted-foreground">+49 163 6345481</p>
                 </Card>
 
                 <Card className="p-6 space-y-3 text-center border-brand-primary/20">

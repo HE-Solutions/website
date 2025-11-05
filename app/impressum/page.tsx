@@ -36,7 +36,7 @@ export default function ImpressumPage() {
                 <h2 className="font-sans font-semibold text-2xl">Vertreten durch</h2>
                 <div className="text-muted-foreground leading-relaxed">
                   <p>Peter Heynmöller</p>
-                  <p>Telefon: +49 151 24192050</p>
+                  <p>Telefon: +49 163 6345481</p>
                   <p>E-Mail: peter@h-e.solutions</p>
                 </div>
               </section>
